@@ -15,7 +15,7 @@ Je m'intéresse au calcul haute performance : parallélisme, optimisation et cal
 | Projet | Description |
 |---|---|
 | Moteur d'échecs (bientôt publié) | C, inférence d'un NNUE, negamax avec élagage alpha-bêta |
-| Calcul scientifique (bientôt publié) | C++, Armadillo, équipe de 3, calcul de la densité locale d'un système nucléaire |
+| [Calcul scientifique](densite-locale-nucleaire-cpp) | C++, Armadillo, équipe de 3, calcul de la densité locale d'un système nucléaire |
 | [Algèbre relationnelle en OCaml](INPF12_SGBD) | OCaml, projet d'école : tables typées, insertion, produit cartésien, projection, restriction, dépendances fonctionnelles, clés et niveau de normalisation (1NF à 3NF). Tests unitaires, Makefile |
 
 ## Contact
