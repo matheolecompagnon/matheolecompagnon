@@ -5,7 +5,7 @@ Je m'intéresse au calcul haute performance : parallélisme, optimisation et cal
 **Je recherche un stage de 4 mois entre le 1er juin et le 1er septembre 2027 et un stage de 6 mois en 2028.**
 
 ## Compétences
-- **Langages :** C (principal), C++, Python, OCaml
+- **Langages :** C (principal), C++, Python, OCaml, Java, SQL
 - **Parallélisme :** MPI
 - **Outils :** git, gcc, make, valgrind, gdb, perf
 - **Systèmes :** Linux, RISC-V
