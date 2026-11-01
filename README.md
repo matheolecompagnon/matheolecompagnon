@@ -2,7 +2,7 @@
 
 Élève ingénieur en 2e année à l'ENSIIE (Calcul Intensif et Données Massives, promo 2028).
 Je m'intéresse au calcul haute performance : parallélisme, optimisation et calcul scientifique ainsi qu'aux systèmes d'exploitation.
-**Je recherche un stage de 4 mois entre le 10 mai et le 10 octobre 2027 et un stage de 6 mois en 2028.**
+**Je recherche un stage de 4 mois entre le 1er juin et le 1er septembre 2027 et un stage de 6 mois en 2028.**
 
 ## Compétences
 - **Langages :** C (principal), C++, Python, OCaml
